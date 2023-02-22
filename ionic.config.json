@@ -1,0 +1,7 @@
+{
+  "name": "wordsleuth-ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
